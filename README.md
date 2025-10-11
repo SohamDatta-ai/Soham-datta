@@ -1,4 +1,4 @@
-# Soham Karande 
+# Soham Datta
 AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexity | Gen AI Expert & Freelancer
 
 <img width="1584" height="396" alt="LLMRAG (1)" src="https://github.com/user-attachments/assets/101a6cda-4e49-4d0a-acb4-8c36c1c6e9e4" />
@@ -6,7 +6,8 @@ AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexit
 
 
 
-## Hey there! I'm Soham Karande
+## Hey there! I'm Soham Datta
+
 
 I'm an AI/ML Engineer and Creative Technologist based in Pune, India. My passion lies in crafting intelligent systems that simplify complexities and make technology feel more human. I believe AI is more than just code; it's about creating adaptive, evolving systems that can think, learn, and connect.
 
