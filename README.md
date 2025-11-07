@@ -2,10 +2,53 @@
 AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexity | Gen AI Expert & Freelancer
 
 # GitHub-Style Profile with Client's Likeness
+# user@github:~$ whoami
+# > [Client Name]
+# -----------------------------------------------------------------------
+# Executing profile initialization sequence...
 
-Here is an image combining the aesthetic of a GitHub-style terminal profile with the facial likeness of your client from the provided reference.
+# Core Fields
+USER_ID="client_handle_2025"
+TITLE="AI / ML Engineer & Data Scientist"
+LOCATION="Global / Remote"
+FOCUS_STACK="Python, TensorFlow, PyTorch, Kubernetes, Cloud (AWS)"
 
-http://googleusercontent.com/image_generation_content/14
+# Bio Statement
+BIO_QUOTES=(
+  "Building intelligent systems that solve real-world problems."
+  "Passionate about ethical AI and model interpretability."
+)
+
+# Current Project Status
+STATUS_REPORT={
+  "active_repo": "NanoBanana-Image-Generator",
+  "commits_last_week": 42,
+  "current_status": "🟢 Online & Developing"
+}
+
+# Image Preview (Simulating a Graphical Output in CLI)
+# -----------------------------------------------------------------------
+# Rendering Image: client_portrait.png
+
+# *** Replace the placeholder URL below with the actual link to your image ***
+# The width is set to 85% of the code block width for clean centering.
+
+printf "
+<p align='center'>
+  <img src='/path/to/your/final_profile_image.png' alt='Client Profile Portrait' width='85%'/>
+</p>
+"
+# -----------------------------------------------------------------------
+
+# Function: get_metrics() 
+# Returns last 30 days activity metrics
+get_metrics() {
+  echo "STARS: 4.8K"
+  echo "FORKS: 1.2K"
+  echo "CONTRIBUTIONS: 1.5K"
+}
+
+get_metrics
 
 
 
