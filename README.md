@@ -1,7 +1,11 @@
 # Soham Datta
 AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexity | Gen AI Expert & Freelancer
 
-<img width="1584" height="396" alt="LLMRAG (1)" src="https://github.com/user-attachments/assets/101a6cda-4e49-4d0a-acb4-8c36c1c6e9e4" />
+# GitHub-Style Profile with Client's Likeness
+
+Here is an image combining the aesthetic of a GitHub-style terminal profile with the facial likeness of your client from the provided reference.
+
+http://googleusercontent.com/image_generation_content/14
 
 
 
