@@ -1,8 +1,7 @@
-# GitHub-Style Profile with Client's Likeness
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="GitHub Profile Image">
+</p>
 
-Here is an image combining the aesthetic of a GitHub-style terminal profile with the facial likeness of your client from the provided reference.
-
-http://googleusercontent.com/image_generation_content/14
 
 
 # Soham Datta
